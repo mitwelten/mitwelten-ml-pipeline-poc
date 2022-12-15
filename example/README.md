@@ -1,5 +1,5 @@
 # Example 
-This implementation implements a working example with 3 flows flow1, flow2, flow3 built with prefect.
+This folder implements a working example with 3 flows(flow1, flow2, flow3) built with prefect.
 
 ## Pre-Requisites
 - Docker installed, if run with cuda -> nvidia-docker installed
